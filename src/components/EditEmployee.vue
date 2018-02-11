@@ -23,8 +23,8 @@
             <input type="text" v-model="position" required>
           </div>
         </div>
-        <button type="submit" class="btn">Submit</button>
-        <router-link to="/" class="btn grey">Cancel</router-link>
+        <button type="submit" class="btn">保存</button>
+        <router-link to="/" class="btn grey">取消</router-link>
       </form>
     </div>
   </div>
